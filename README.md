@@ -4,7 +4,7 @@
 
 <h2>Project [eSSLMonitor]</h2> Screeshot:
 
-<img src="https://maximosupport.com/eSolProjects.PNG" alt="project-screenshot" width="900" height="600/">
+<img src="https://github.com/ayoubi1990/emaxtools/blob/main/ssl-monitor/esslmonitor.jpg" alt="project-screenshot" width="900" height="600/">
 
 <h2>📋 Pre-requisites:</h2>
 
