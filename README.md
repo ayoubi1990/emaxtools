@@ -1,6 +1,6 @@
 <h1 align="center" id="title">eMax Tools</h1>
 
-<p id="description">These tools are developed to support Maximo/MAS envx.</p>
+<p id="description">These tools are developed to support Maximo/MAS ENVs.</p>
 
 <h2>Project [eSSLMonitor]</h2> Screeshot:
 
