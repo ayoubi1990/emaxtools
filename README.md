@@ -12,7 +12,8 @@ Screeshot:
 Java 8
 ```
 <p>Add your own configuration in resources/godaddy.properties:</p>
-<p>First, Add multiple domain to monitor, just you have to add a new property starting ssl.</p>
+
+- <p>First, Add multiple domain to monitor, just you have to add a new property starting ssl.</p>
 
 ```
 # Domains List to be SSL validated
@@ -20,7 +21,7 @@ ssl.er=ermaximo.com
 ssl.max=maxmaximo.com
 ssl.google=google.com
 ```
-<p>Second, you have to configure your smtp configuration</p>
+- <p>Second, you have to configure your smtp configuration</p>
 
 ```
 # SMTP Properties
