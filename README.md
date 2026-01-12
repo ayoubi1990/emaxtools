@@ -6,7 +6,7 @@
 
 <img src="https://maximosupport.com/eSolProjects.PNG" alt="project-screenshot" width="900" height="600/">
 
-<h2>Pre-requisites:</h2>
+<h2>📋 Pre-requisites:</h2>
 
 ```
 Java 8
